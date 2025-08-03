@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chat dengan Kami</title>
+</head>
+<body>
+  <h2>Halo, selamat datang!</h2>
+  <p>Silakan gunakan chat di kanan bawah untuk menghubungi kami.</p>
+
+  <!-- Script Tidio -->
+  <script src="https://code.tidio.co/vs1r2avzmnoxg1v3t0nnn7iabhj4e7ew.js" async></script>
+</body>
+</html>
